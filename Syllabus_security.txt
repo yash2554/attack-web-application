@@ -1,0 +1,37 @@
+
+
+1)NETWORKING FUNDAMENTALS :
+2)WEB APPLICATION FIREWALL:-  
+• ARCHITECTURE & PHASES.
+3)SCANNING:  
+• Scan URL and learn about all vulnerabilities.  (REPORT Generation)
+• Vulnerabilities Assessment.
+Scanner
+• Netsparker 
+• IBM.Rational.AppScan
+• Acunetics 
+• Nessus
+4)Learn about Vulnerabilities:-
+(OWASP Top-10)
+1. XSS (Cross site Scripting)
+2. Blind/SQL Injection
+3. CSRF (Cross-Site Request Forgery)
+4. Command Injection
+5. File Inclusion    
+6. LFI (REMOTE FILE Inclusion)
+7. RFI (REMOTE FILE Inclusion)
+8. Upload File  
+9. Source code Leakage
+10. Information Leakage
+11. Session Hijacking (Cookie, Token ,etc...)
+12. DDOS ATTACK
+13. Xpath Injection
+
+
+
+5) Ubuntu 12.04   
+• OVF Installation 
+• WAF configuration
+• MODSECURITY Installation IN Ubuntu  Manually
+    
+6)REGEX(REGULAR EXPRESSION):-

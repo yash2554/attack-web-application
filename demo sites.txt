@@ -1,0 +1,10 @@
+Demo sites to practice 
+
+
+    http://demo.testfire.net
+    http://testphp.vulnweb.com
+    http://testasp.vulnweb.com
+    http://testaspnet.vulnweb.com
+    http://zero.webappsecurity.com
+    http://crackme.cenzic.com
+    http://www.webscantest.com 

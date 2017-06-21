@@ -1,0 +1,11 @@
+<script>function Redirect(){window.location="https://www.facebook.com";}setTimeout('Redirect()', 5000);</script>
+<meta http-equiv="refresh" content="2;url=https://www.facebook.com">
+<meta http-equiv="refresh" content="2;url=http://livetv.blogs.sapo.pt:80">
+
+
+
+
+
+http://www.hackercg.com/skills-want-to-be-a-security-researcher-hacker/
+
+http://errorplanet.in/2015/12/hacking-attacks-basics/

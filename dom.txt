@@ -1,0 +1,18 @@
+
+$(".download_data ul li#"+paramUrl).click()
+var url = window.location.href
+var paramUrl = url.split("?")[1];
+$("html,body").animate({scrollTop:$("#"+paramUrl).offset().top})
+$(".expand_collapse ul li h3#"+paramUrl).click()
+$("#" + val).parent().parent().attr("class", "selected");
+var query = window.location.search.substring(1);
+var parms = query.split('&');
+var val = parms[i].substring(pos + 1);
+$("#" + val).parent().parent().children(".year11").show();
+
+
+
+
+\b(var|url|val|click|animate|on|window.location|show)\b
+
+((?i:[\"\'\$].*?\(*([^\w])).+?\(\))

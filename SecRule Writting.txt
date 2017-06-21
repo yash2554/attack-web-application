@@ -1,0 +1,39 @@
+<VirtualHost >
+
+SecArgumentSeparator 
+SecCookieFormat
+SecDataDir
+SecRequestBodyAccess			On/Off
+SecRequestBodyInMemoryLimit
+SecRequestBodyLimit
+SecRequestBodyNoFilesLimit
+SecResponseBodyAccess			On/Off
+SecResponseBodyLimit
+SecResponseBodyLimitAction
+SecResponseBodyMimeType
+SecResponseBodyMimeTypeClear
+SecRuleEngine				On/Off
+SecTmpDir
+
+
+###############
+
+
+
+
+
+
+
+###############
+
+
+
+
+
+
+
+
+
+
+
+</VirtualHost>

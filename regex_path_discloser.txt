@@ -1,0 +1,39 @@
+Task:
+ 
+Create a rule which removes Windows and Linux OS path(generic for both)disclosures in response body when Requested URI is "/bank/login.aspx".
+You may get these errors due to misconfiguration or lack of request body sensitization. Also set appropriate log message and status in rule. See attached
+Snap for more information. Also one can use any demo website like “demo.testfire.net” for testing the rule.
+ 
+I.e.
+Example of Windows Path Disclosure: C:\www\InetPub\client1\
+Example of Linux Path Disclosure: /var/www/apache2/client1/
+ 
+ 
+/var/www/apache2/client1/cslsas.css
+/vvv/var/image/images/starterkit.css
+/vvv/var/image/images/startt.js
+/var/www/apache2/client1/java.c
+C:\www\InetPub\client1\java.c
+C:\www\InetPub\
+/images/starterkit.css
+
+
+
+\\192.168.0.1\folder\file.pdf
+\\192.168.0.1\my folder\folder.2\file.gif
+c:\my folder\abc abc.docx
+c:\my-folder\another_folder\abc.v2.docx
+
+\\192.168.0.1\folder\fi<le.pdf
+\\192.168.0.1\folder\\file.pdf
+\\192.168.0.1\my folder\folder.2\.gif
+c:\my folder\another_folder\.docx
+c:\my folder\\another_folder\abc.docx
+c:\my folder\another_folder\ab*c.v2.docx
+c:\my?folder\another_folder\abc.v2.docx
+file.xls
+
+ 
+[\w\/\\\:]+(?=[\/|\\]\w+\.(?!(js|css|json|jpg|html|php)))
+
+[\w\/\\\:]{1,}(?=[\/|\\]\s|\w{1,}\.(?!(js|css|json|jpg|php|html)))

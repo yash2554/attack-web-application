@@ -1,0 +1,15 @@
+SecRules ARGS "<script>" log,deny,status:404
+
+
+
+
+SecRules VARIABLE OPERATOR ACTIONS
+
+
+VARIABLE
+
+
+
+REQUEST_HEADER
+REQUEST_BODY
+

